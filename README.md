@@ -60,6 +60,3 @@ Open sentiment_analysis.ipynb
 Execute all cells sequentially
 Results
 The final model demonstrates effective performance on validation data and is capable of capturing sentiment patterns present in tweet text.
-
-
-
